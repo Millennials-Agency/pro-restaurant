@@ -1,2 +1,2 @@
-# restaurant-2.github.io
+# pro-restaurant
 demo2
